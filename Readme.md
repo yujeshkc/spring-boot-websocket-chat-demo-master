@@ -15,7 +15,7 @@ You can checkout the live version of the application at http://54.211.68.90:5200
 **1. Clone the application**
 
 ```bash
-git clone https://github.com/callicoder/spring-boot-websocket-chat-demo.git
+git clone https://github.com/yujeshkc/spring-boot-websocket-chat-demo-master
 ```
 
 **2. Build and run the app using maven**
